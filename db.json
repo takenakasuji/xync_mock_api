@@ -8,6 +8,6 @@
         { "age": 30, "prefecture": "北海道", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKX70Z2ocHHKGa1TWIpyn60G1n_Vx3fZ17XMdcSEEo24wZ1HI7Q"},
         { "age": 29, "prefecture": "東京都", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNbfG_SzB0ybQg-NAYpbYAbmP2IuRpFYuwTjHmmPkOkQ6XTiB"},
         { "age": 27, "prefecture": "京都府", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmCEN7H9mPQ7atTAjA6mNYFtuRfDYvaMTfpCnPzJaXA-ulDne"},
-        { "age": 18, "prefecture": "千葉県", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnExv9pWyCnLLFV-o8E8ZqEDAW8Wt3dY-v2caqdn6MBWp-15ws"},
+        { "age": 18, "prefecture": "千葉県", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnExv9pWyCnLLFV-o8E8ZqEDAW8Wt3dY-v2caqdn6MBWp-15ws"}
     ]
 }
